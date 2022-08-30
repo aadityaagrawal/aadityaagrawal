@@ -26,15 +26,7 @@
 
 
   
-## My GitHub Stats
 
-<a href="https://github.com/aadityaagrawal/aadityaagrawal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaagrawal&hide=java,html&title_color=000000&text_color=000000"/>
-</a>
-
-<a href="https://github.com/aadityaagrawal/aadityaagrawal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityaagrawal&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="aditya's GitHub Stats" />
-</a>
 
 ## ✉️ Connect With Me<br>
 <p align="left">
