@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Android Development and NLP 
 - 💬 Ask me about Mathematics and Deep Learning i'd would be happy to help
 
-![GitHub Views](https://komarev.com/ghpvc/?username=aadityaagrawal&color=FAC151)
-
 ## Skills
 
 ### Languages
