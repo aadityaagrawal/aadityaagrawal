@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&lines=%F0%9F%91%8B+I'm+Aditya;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+A+Deep+Learning+Practitioner...;%E2%9C%88%EF%B8%8F+Love+to+meet+new+peoples+and+explore+new+places)](https://git.io/typing-svg)
 
+I am pursuing my bachelors degree in Computer Science Engineering at SRM Institute of Science and Technology.I am very passionate about Machine Learning, Deep Learning and App Development. Currently i am working on Visual Question Answering based models.
+
 - 🌱 I’m currently learning Android Development and NLP 
 - 💬 Ask me about Mathematics and Deep Learning i'd would be happy to help
 
@@ -26,7 +28,7 @@
   
 
 
-## ✉️ Connect With Me<br>
+## 🤝 Connect With Me<br>
 <p align="left">
 <a href=https://www.linkedin.com/in/aditya-agrawal-a078091b8/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="mailto:adityakuagrawal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
