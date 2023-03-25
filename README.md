@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=%F0%9F%91%8B+I'm+Aditya;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+A+Full+Stack+Developer...;%F0%9F%9B%A9%EF%B8%8F+Love+to+explore+new+places...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=%F0%9F%91%8B+I'm+Aditya,...;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+a+FULL+STACK+DEVELOPER...;%F0%9F%9B%A9%EF%B8%8F+who+loves+to+explore+new+places!)](https://git.io/typing-svg)
 
 I am a junior pursuing my bachelor's degree in Computer Science. I am very passinate about Application Developement and Deep Learning. My goal is to find solutions for the issues faced in contemporary society. I love to make contribution on open source projects and when, I am not in coding I love writing technical blogs.  
 
