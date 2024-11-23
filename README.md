@@ -5,7 +5,7 @@
 <img align='right' alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 I am a junior pursuing my bachelor's in Computer Science. I am very passinate about Application Developement and Deep Learning. My goal is to find solutions for the issues faced in contemporary society. I love to make contribution on open source projects and when, I am not in coding I love writing technical blogs.  
 
-- 👨‍💻 I'm a Front End Developer
+- 👨‍💻 I'm a Full Stack Developer
 - ✍ Technical Blog Writter
 - 🌱 I’m currently learning threejs to add 3D Objects on a website. 
 - 💬 Ask me about Application Development, Mathematics and Deep Learning i'd would be happy to help
