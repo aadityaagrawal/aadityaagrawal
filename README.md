@@ -1,6 +1,6 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/aadityaagrawal)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=500&size=25&pause=1000&color=1461C3&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Agrawal...;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+A+Front+End+Developer;%F0%9F%A7%97Who+loves+travelling)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=500&size=25&pause=1000&color=1461C3&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Agrawal...;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+A+Full+Stack+Developer;%F0%9F%A7%97Who+loves+travelling)](https://git.io/typing-svg)
 
 <img align='right' alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
 I am a junior pursuing my bachelor's in Computer Science. I am very passinate about Application Developement and Deep Learning. My goal is to find solutions for the issues faced in contemporary society. I love to make contribution on open source projects and when, I am not in coding I love writing technical blogs.  
