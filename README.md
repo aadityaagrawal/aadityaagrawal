@@ -3,13 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=500&size=25&pause=1000&color=1461C3&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Agrawal...;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+A+Full+Stack+Developer;%F0%9F%A7%97Who+loves+travelling)](https://git.io/typing-svg)
 
 <img align='right' alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
-I am a junior pursuing my bachelor's in Computer Science. I am very passinate about Application Developement and Deep Learning. My goal is to find solutions for the issues faced in contemporary society. I love to make contribution on open source projects and when, I am not in coding I love writing technical blogs.  
+Software Engineer at Société Générale, passionate about building scalable full-stack applications that deliver seamless user experiences. I work with Spring Boot, Angular, PostgreSQL, and Azure Kubernetes Service (AKS), focusing on CI/CD automation with Jenkins and secure, efficient deployments. I enjoy solving complex problems, optimizing systems, and sharing my knowledge through technical blogs.
 
-- 👨‍💻 I'm a Full Stack Developer
-- ✍ Technical Blog Writter
-- 🌱 I’m currently learning threejs to add 3D Objects on a website. 
-- 💬 Ask me about Application Development, Mathematics and Deep Learning i'd would be happy to help
 
+
+- 👨‍💻 Full Stack Developer
+- ✍️ Technical Blog Writer
+- 🌱 Currently exploring Three.js to create interactive 3D web experiences
+- 💬 Always happy to talk about Application Development and Mathematics
 
 </br>
 </br>
@@ -33,7 +34,6 @@ I am a junior pursuing my bachelor's in Computer Science. I am very passinate ab
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="SK-Learn" src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img alt = "Keras" src = "https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
 <img alt="Flutter" src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
